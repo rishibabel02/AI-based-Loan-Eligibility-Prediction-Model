@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # AI-based-Loan-Eligibility-Prediction-Model
-=======
+
 # Loan-prediction-using-Machine-Learning-and-Python
 
 ## Aim
@@ -51,6 +51,3 @@ Loan id, Gender, Married, Dependents, Education, Self Employed, Applicant income
 
 
 
-
-
->>>>>>> 76b475b (Uploaded files)
